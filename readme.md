@@ -1,6 +1,4 @@
-Anshuman Biswas's Webpage
-==============
+myWebsite
+=========
 
-Location
---------------
-http://www.anshumanbiswas.com
+Contains the code for my personal website: http://www.anshumanbiswas.com
