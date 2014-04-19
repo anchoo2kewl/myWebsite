@@ -1,0 +1,3 @@
+[submodule "localVM"]
+	path = localVM
+	url = git@github.com:anchoo2kewl/vagrant-laravel-hhvm.git
