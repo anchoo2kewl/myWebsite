@@ -1,1 +1,6 @@
 #Vagrant
+.gitmodules
+
+#Conposer
+vendor/**
+

@@ -1,1 +1,0 @@
-/var/www/web.local/vendor/bin/../classpreloader/classpreloader/classpreloader.php

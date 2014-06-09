@@ -1,6 +1,0 @@
-[submodule "localVM"]
-	path = localVM
-	url = git@github.com:anchoo2kewl/vagrant-laravel-hhvm.git
-[submodule "DO-Main"]
-	path = DO-Main
-	url = git@github.com:anchoo2kewl/vagrant-laravel-hhvm-DO.git
