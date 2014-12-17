@@ -5,3 +5,6 @@
 vendor/**
 
 public/.sass-cache/**
+
+#Ignore DB config
+app/config/database.php
