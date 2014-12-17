@@ -4,3 +4,4 @@
 #Conposer
 vendor/**
 
+public/.sass-cache/**
