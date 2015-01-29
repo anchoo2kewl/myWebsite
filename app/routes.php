@@ -12,5 +12,5 @@
 */
 
 Route::get('/', 'PagesController@home');
-Route::get('/manage', 'PagesController@manage');
+Route::get('/manage', 'ManageController@index');
 

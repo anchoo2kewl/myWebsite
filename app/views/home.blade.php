@@ -360,7 +360,7 @@
     <script src="js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/freelancer.js"></script>
+    <script src="js/anshumanbiswas.js"></script>
 
     <!-- Google Analytics -->
     <script>
