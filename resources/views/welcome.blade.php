@@ -87,14 +87,7 @@
 										Ottawa, ON K1S 5B6<br />
 										Canada
 									</li>
-									<li>
-										<h3 class="icon fa-mobile"><span class="label">Phone</span></h3>
-										613-255-5106
-									</li>
-									<li>
-										<h3 class="icon fa-envelope-o"><span class="label">Email</span></h3>
-										<a href="#">anshuman@biswas.me</a>
-									</li>
+									
 								</ul>
 							</div>
 						</div>
